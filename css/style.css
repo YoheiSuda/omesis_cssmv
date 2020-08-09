@@ -73,7 +73,6 @@ html, body {
   left: 25%;
   transform: translateX(-20px);
   opacity: 0;
-  background-color: red;
 }
 #intro .ray-part-1 .glitch-1 img {
   position: relative;
@@ -92,7 +91,6 @@ html, body {
   left: 25%;
   transform: translateX(20px);
   opacity: 0;
-  background-color: blue;
 }
 #intro .ray-part-1 .glitch-2 img {
   position: relative;
@@ -110,7 +108,6 @@ html, body {
   top: calc(50% + 50px);
   transform: translateX(-20px);
   opacity: 0;
-  background-color: red;
 }
 #intro .ray-part-1 .glitch-3 img {
   position: relative;
@@ -194,7 +191,6 @@ html, body {
   top: calc(50% - 125px);
   transform: translateX(-20px);
   opacity: 0;
-  background-color: blue;
 }
 #intro .rio-part-1 .glitch-1 img {
   position: relative;
@@ -212,7 +208,6 @@ html, body {
   top: 50%;
   transform: translateX(20px);
   opacity: 0;
-  background-color: red;
 }
 #intro .rio-part-1 .glitch-2 img {
   position: relative;
@@ -230,7 +225,6 @@ html, body {
   top: calc(50% + 80px);
   transform: translateX(-20px);
   opacity: 0;
-  background-color: blue;
 }
 #intro .rio-part-1 .glitch-3 img {
   position: relative;
